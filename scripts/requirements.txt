@@ -1,0 +1,5 @@
+# Scoring (dino_drift.py). comfy_bench.py, chunk_chain.py and fit_cost_model.py
+# use only the standard library but need a running ComfyUI with MiniMax H3 nodes.
+torch>=2.3
+transformers>=4.44
+pillow>=10

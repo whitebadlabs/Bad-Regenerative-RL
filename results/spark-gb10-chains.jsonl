@@ -1,0 +1,2 @@
+{"tag": "same", "chunks": 4, "chunk_frames": 39, "total_frames": 156, "total_seconds_video": 6.5, "time_to_first_frame": 21.05, "total_elapsed": 84.19, "per_chunk": [21.05, 21.05, 21.04, 21.05]}
+{"tag": "switch", "chunks": 4, "chunk_frames": 39, "total_frames": 156, "total_seconds_video": 6.5, "time_to_first_frame": 21.05, "total_elapsed": 84.2, "per_chunk": [21.05, 21.05, 21.05, 21.05]}

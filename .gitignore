@@ -1,0 +1,58 @@
+# Generated media: never commit frames, clips or reference images
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.wav
+*.mp3
+*.flac
+# allow small hand-made figures if we ever add them
+!docs/figures/*.svg
+
+# Model weights and checkpoints
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.gguf
+*.onnx
+models/
+checkpoints/
+weights/
+
+# Run outputs
+outputs/
+output/
+runs/
+frames/
+bench_out/
+*.log
+*.tgz
+*.tar.gz
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+id_*
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
