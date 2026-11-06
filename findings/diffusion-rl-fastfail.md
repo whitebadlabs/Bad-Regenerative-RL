@@ -37,7 +37,7 @@ Robustness (BF16, per element, steps 0–9):
 
 Prediction recorded before the run: "1e-3, grows across steps".
 
-![per-step |Δ log p| vs FP32](../results/diffusion-rl-fastfail-gate4.png)
+![per-step |Δ log p| vs FP32](../docs/figures/diffusion-rl-fastfail-gate4.svg)
 
 Numbers: [results/diffusion-rl-fastfail-gate4.json](../results/diffusion-rl-fastfail-gate4.json) (all seeds, all arms, per step). Gate 3 training history: [results/diffusion-rl-fastfail-gate3-history.jsonl](../results/diffusion-rl-fastfail-gate3-history.jsonl). Code: [scripts/fastfail/](../scripts/fastfail/). Raw latent arrays (33 MB) are kept off-repo.
 
