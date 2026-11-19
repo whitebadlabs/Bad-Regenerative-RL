@@ -171,3 +171,5 @@ need your own reference image; ours is not published.
 
 Code and text: Apache-2.0, see [LICENSE](LICENSE). Model weights referenced here
 are under their own licences, which you must check separately.
+
+Data and results in this repository: CC-BY-4.0 (reuse freely, with attribution).
