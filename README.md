@@ -5,9 +5,6 @@ Reinforcement learning and reward models for generative video, focused on
 anime-style characters) in **causal autoregressive / streaming** video generation,
 with **few-step distilled inference** as the serving substrate.
 
-Whitebad Labs · Carmen Lok · started September 2026 · status: early, measurements
-plus proposals. The direction will change as results come in.
-
 ---
 
 ## The problem
