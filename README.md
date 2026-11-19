@@ -1,9 +1,11 @@
-# research-generative-rl
+# Bad-Regenerative-RL
 
 Reinforcement learning and reward models for generative video, focused on
 **verifiable identity rewards for non-human subjects** (pets, animals, cartoon and
 anime-style characters) in **causal autoregressive / streaming** video generation,
 with **few-step distilled inference** as the serving substrate.
+
+**Goal:** achieve low-latency (~1 second) streaming video generation that preserves subject identity for non-human and non-photographic subjects
 
 ---
 
